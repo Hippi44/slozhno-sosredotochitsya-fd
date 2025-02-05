@@ -302,16 +302,15 @@
     padding-inline: 20px;
     margin-block-end: 80px;
   }
-  
+
   .section__last {
     margin-block-end: 60px;
   }
-  
+
   .section__grid-column {
     display: grid;
     grid-template-columns: max-content 2fr;
   }
-
 
   .grid__container {
     display: flex;
@@ -334,7 +333,7 @@
     width: 100%;
   }
 
-  .images__sun {;
+  .images__sun {
     height: 192px;
     grid-column: span 2;
   }
