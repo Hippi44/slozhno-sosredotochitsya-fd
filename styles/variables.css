@@ -5,6 +5,8 @@
 
 :root {
   --accent-color: #FF0070;
+  --lightDark-color: #FF0070;
+  --theme-color: #FF0070;
   --title-color: #000028;
   --bg-color: #000028;
   --main-text: 'IBM Plex Mono';
